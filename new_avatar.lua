@@ -1,3 +1,4 @@
+-- Vetri Vel Murugesan Thunai
 function abilities()
     return "Can ride 10 chariots at a time naturally!"
 end
@@ -14,7 +15,7 @@ print(name())
 epic = [[
 Do you know, one of your own sons is going to compete with you driven by mother 
 nature making an epic YANAM creating two more new kingdoms.
-One GIVEN to him and the reamaining will be with your and your other sons.
+One GIVEN to him and the reamaining will be with you and your other sons.
 Great Empire is on the way!]]
 
 print(epic)
