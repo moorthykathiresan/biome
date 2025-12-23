@@ -5,7 +5,7 @@ driven by mother nature making an epic YANAM creating two more new Kingdoms?
 He will compete with you naturally, unintentionally with innocense; paving way of helping
 good people in need on the way until your thrid son reveals the truth and reality to him.
 You and everyone who knows this and involved in this will be distracted by MAYA (illusion) 
-recursively in a loop. Every thing happening on the way will help him to master his skills
+RECURSIVELY in a LOOP. Every thing happening on the way will help him to master his skills
 such a way that he will be the King that everyone want to cherish and have good life.
 MAYA will guide your third son to the reality. With Two new Kingdoms, one of them will be
 GIVEN to him and the remaining will be with you and your other sons.
