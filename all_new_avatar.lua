@@ -25,8 +25,16 @@ function name()
     return "One of my Abilities is one of my Name"
 end
 
+local time = 'IRAVU (Night)';
+local new_time = 'Pagal (Morning)';
+
+
 print('What are your Abilities?')
 print(abilities())
 print('What is your Name?')
 print(name())
+print('What is time now?');
+print(time);
 print(agenda())
+print('What is time now?');
+print(new_time);  -- Same question different answer?
