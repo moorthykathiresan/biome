@@ -14,7 +14,7 @@ print(name())
 
 epic = [[
 Do you know, one of your own sons is going to compete with you, driven by mother 
-nature making an epic YANAM creating two more new kingdoms.
+nature making an epic YANAM creating two more new kingdoms?
 One GIVEN to him and the remaining will be with you and your other sons.
 Good Great Empire is on the way!
 ]]
