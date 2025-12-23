@@ -1,4 +1,4 @@
--- Vetri Vel Murugesan Thunai
+-- VetrI VeL MurugesaN ThunaI
 function abilities()
     return "Can ride 10 chariots at a time Naturally!"
 end
